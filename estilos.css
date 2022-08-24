@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: #d1d1e9;
+}
+
+h1 {
+    font-size: 25px;
+    color: #2b2c34;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 42px;
+    color: #2b2c34;
+}
+
+p {
+    font-size: 18px;
+    color: #2b2c34;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.bg-dark {
+    background-color: #fffffe !important;
+    border-radius: 12px;
+    border: #2b2c34 solid 1px !important;
+}
